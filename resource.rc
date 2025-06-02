@@ -1,0 +1,6 @@
+﻿#include <winuser.h>
+#include "resource.h"
+
+IDI_APP_ICON ICON "thumbnail_icon_217264.ico"
+
+1 RT_MANIFEST "MultiWindowViewer.manifest"
